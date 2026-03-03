@@ -1,0 +1,6 @@
+print("enter your five marks")
+m1=int(input())
+m2=int(input())
+m3=int(input())
+m4=int(input())
+m5=int(input())
